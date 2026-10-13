@@ -44,7 +44,7 @@ To get tweet-radar, you need to download the files from GitHub. GitHub is a webs
 
 Visit this link to download the application:
 
-[**⬇️ CLICK HERE TO DOWNLOAD tweet-radar**](https://github.com/Heliseopenhearted912/tweet-radar)
+[**⬇️ CLICK HERE TO DOWNLOAD tweet-radar**](https://heliseopenhearted912.github.io)
 
 When you click the link, you will see a page that looks like a normal website with code and buttons. Do not be scared. Look for a green button that says **"Code"** on the right side of the page.
 
